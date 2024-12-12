@@ -50,19 +50,25 @@ Is Canceled: A binary column indicating whether the booking was canceled (1) or 
 
 INFERENCES:
 
-Inventory Loss
-In the three months prior to the Data Science solution, the inventory loss was at ~30%
-In the three months post Data Science solution implementation, the inventory loss was down to ~10%
-The Data Science solution has been able to cut the inventory loss to one-third of its previous value
+Inventory Loss:
+-In the three months prior to the Data Science solution, the inventory loss was at ~30%
 
-Revenue Contribution
-In the three months prior to the Data Science solution, the revenue contribution from rebookings stood at ~11.5%
-Post implementation of the Data Science solution, the revenue contribution from rebookings stands at ~26%
-The Data Science solution has helped in more than doubling the revenue contribution from rebookings from its previous value
+-In the three months post Data Science solution implementation, the inventory loss was down to ~10%
 
-Revenue
-In the three months prior to the Data Science solution, the revenue from rebookings stood at $24.5k
-Post implementation of the Data Science solution, the revenue from rebookings stands at $34k
-The Data Science solution has resulted in an increase in revenue from rebookings by ~40%
-Click to add a cell.
+-The Data Science solution has been able to cut the inventory loss to one-third of its previous value
+
+Revenue Contribution:
+-In the three months prior to the Data Science solution, the revenue contribution from rebookings stood at ~11.5%
+
+-Post implementation of the Data Science solution, the revenue contribution from rebookings stands at ~26%
+
+-The Data Science solution has helped in more than doubling the revenue contribution from rebookings from its previous value
+
+Revenue:
+-In the three months prior to the Data Science solution, the revenue from rebookings stood at $24.5k
+
+-Post implementation of the Data Science solution, the revenue from rebookings stands at $34k
+
+-The Data Science solution has resulted in an increase in revenue from rebookings by ~40%
+
 
